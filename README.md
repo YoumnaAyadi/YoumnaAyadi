@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YoumnaAyadi
+- 👋 Hi, I’m @Youmna
 - 👀 I’m interested in Bioengineering, theoretical biology, etc.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
