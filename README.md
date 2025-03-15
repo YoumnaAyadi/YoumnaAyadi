@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Youmna
-- 👀 I’m interested in bioengineering, theoretical biology, computer science, etc.
+- 👀 I’m interested in bioengineering, biostatistics computer science, etc.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
