@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Youmna
-- 👀 I’m interested in bioengineering, biostatistics, computer science, etc.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+PhD Student in Computational Biology at Mines Paris-PSL & Institut Curie
 
 <!---
 YoumnaAyadi/YoumnaAyadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
